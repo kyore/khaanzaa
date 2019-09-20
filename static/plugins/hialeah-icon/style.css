@@ -1,0 +1,185 @@
+@font-face {
+  font-family: 'hialeah-icon';
+  src:  url('fonts/hialeah-iconc447c447.eot?o9imtl');
+  src:  url('fonts/hialeah-iconc447c447.eot?o9imtl#iefix') format('embedded-opentype'),
+    url('fonts/hialeah-iconc447c447.ttf?o9imtl') format('truetype'),
+    url('fonts/hialeah-iconc447c447.woff?o9imtl') format('woff'),
+    url('fonts/hialeah-iconc447c447.svg?o9imtl#Hialeah-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="hialeah-icon-"], [class*=" hialeah-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Hialeah-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hialeah-icon-phone-call:before {
+  content: "\e934";
+}
+.hialeah-icon-call:before {
+  content: "\e933";
+}
+.hialeah-icon-brick-wall:before {
+  content: "\e900";
+}
+.hialeah-icon-briefcase:before {
+  content: "\e901";
+}
+.hialeah-icon-bulldozer:before {
+  content: "\e902";
+}
+.hialeah-icon-bulldozer-1:before {
+  content: "\e903";
+}
+.hialeah-icon-chainsaw:before {
+  content: "\e904";
+}
+.hialeah-icon-circular-saw:before {
+  content: "\e905";
+}
+.hialeah-icon-cogwheel:before {
+  content: "\e906";
+}
+.hialeah-icon-construction:before {
+  content: "\e907";
+}
+.hialeah-icon-crane:before {
+  content: "\e908";
+}
+.hialeah-icon-driller:before {
+  content: "\e909";
+}
+.hialeah-icon-driller-1:before {
+  content: "\e90a";
+}
+.hialeah-icon-hammer:before {
+  content: "\e90c";
+}
+.hialeah-icon-helmet:before {
+  content: "\e90d";
+}
+.hialeah-icon-roller:before {
+  content: "\e90e";
+}
+.hialeah-icon-screw:before {
+  content: "\e90f";
+}
+.hialeah-icon-screwdriver:before {
+  content: "\e910";
+}
+.hialeah-icon-traffic-cone:before {
+  content: "\e911";
+}
+.hialeah-icon-truck:before {
+  content: "\e912";
+}
+.hialeah-icon-worker:before {
+  content: "\e913";
+}
+.hialeah-icon-wrench:before {
+  content: "\e914";
+}
+.hialeah-icon-air-compressor:before {
+  content: "\e915";
+}
+.hialeah-icon-angle-grinder:before {
+  content: "\e916";
+}
+.hialeah-icon-blower:before {
+  content: "\e917";
+}
+.hialeah-icon-chainsaw2:before {
+  content: "\e918";
+}
+.hialeah-icon-circular-saw2:before {
+  content: "\e919";
+}
+.hialeah-icon-clamp:before {
+  content: "\e91a";
+}
+.hialeah-icon-concrete-mixer:before {
+  content: "\e91b";
+}
+.hialeah-icon-cutter:before {
+  content: "\e91c";
+}
+.hialeah-icon-driller2:before {
+  content: "\e91d";
+}
+.hialeah-icon-hammer2:before {
+  content: "\e91e";
+}
+.hialeah-icon-helmet2:before {
+  content: "\e91f";
+}
+.hialeah-icon-hydraulic-breaker:before {
+  content: "\e920";
+}
+.hialeah-icon-improvement:before {
+  content: "\e921";
+}
+.hialeah-icon-paint-brush:before {
+  content: "\e922";
+}
+.hialeah-icon-paint-roller:before {
+  content: "\e923";
+}
+.hialeah-icon-planer:before {
+  content: "\e924";
+}
+.hialeah-icon-pliers:before {
+  content: "\e925";
+}
+.hialeah-icon-pliers-1:before {
+  content: "\e926";
+}
+.hialeah-icon-plumb-bob:before {
+  content: "\e927";
+}
+.hialeah-icon-saw:before {
+  content: "\e928";
+}
+.hialeah-icon-saw-1:before {
+  content: "\e929";
+}
+.hialeah-icon-screw2:before {
+  content: "\e92a";
+}
+.hialeah-icon-screwdriver2:before {
+  content: "\e92b";
+}
+.hialeah-icon-screwdriver-1:before {
+  content: "\e92c";
+}
+.hialeah-icon-shovel:before {
+  content: "\e92d";
+}
+.hialeah-icon-solder:before {
+  content: "\e92e";
+}
+.hialeah-icon-traffic-cone2:before {
+  content: "\e92f";
+}
+.hialeah-icon-wheelbarrow:before {
+  content: "\e930";
+}
+.hialeah-icon-wood-cutter:before {
+  content: "\e931";
+}
+.hialeah-icon-wrench2:before {
+  content: "\e932";
+}
+.hialeah-icon-menu:before {
+  content: "\e90b";
+}
